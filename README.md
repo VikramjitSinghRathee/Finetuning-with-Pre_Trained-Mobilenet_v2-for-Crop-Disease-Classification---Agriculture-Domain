@@ -14,3 +14,12 @@ This project's technology stack will include the following:
 - Data Augmentation
 - mobilenet_v2 model pre-trained on the ImageNet dataset.
 - Tensorflow Lite (Useful for mobile dev)
+
+
+# TO DO LIST
+- [ ] (a) Deploy ML WebApp
+- [ ] (b) Utilize Tensorflow Lite model and deploy mobile app
+
+### Further down the line
+- [ ] Train models for other crops
+- [ ] Revisit (a) and (b)
